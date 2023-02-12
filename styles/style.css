@@ -4,3 +4,28 @@ p {
     font-style: italic;
     background-color: bisque;
 }
+h1{
+    background-color: aqua;
+    color:gold;
+}
+#par1{
+    background-color: aquamarine;
+    color:green;
+}
+#par2{
+    background-color: blueviolet;
+    color: blue;
+}
+.yellowMark{
+    background-color: yellow;
+}
+.bigFont{
+    font-size: 20px;
+}
+.borders{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 40px;
+    padding-top: 4px;
+    padding-left: 80px;background-color: lightseagreen;
+}
